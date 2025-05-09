@@ -97,4 +97,23 @@ h2{
 
 .fundo-galeria {
     background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+}   background-size:188px 188px;
+
 }
+
+  #contato {
+    background-image: url('img/4965007.jpg');
+    background-size: cover;
+    padding: 4rem 0;  
+    /*espacamento interno para a secao de contato*/
+  }
+        
+  .fomulario{
+     background-color: #ffffff;
+     padding: 2arem;
+     /*espacamento interno dentro do formulario*/
+     border-radius: 10px;
+    */borda arrendodada para  a formulario*/
+     box-shadow: ;
+    }
+
